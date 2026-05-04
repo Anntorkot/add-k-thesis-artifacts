@@ -98,8 +98,4 @@ The artifacts support the thesis evaluation as follows:
 - The presentation summarizes the main evaluation findings and discussion points.
 - The literature review register documents the theoretical sources used to frame the research problem and methodology.
 
-## Citation
 
-If these materials are referenced, please cite this repository as supplementary material for the thesis:
-
-Kotomceva, A. (2026). *Supplementary Research Artifacts for Enhancing Architectural Decision Traceability in Attribute-Driven Design through Residuality Matrix Analysis*. GitHub repository.
